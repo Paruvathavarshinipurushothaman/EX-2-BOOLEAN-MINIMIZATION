@@ -13,10 +13,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime 
 
-Theory 
-
-Logic Diagram 
-
 Procedure 
 
 Type the program in Quartus software. 
@@ -29,4 +25,6 @@ Create nodes for inputs and outputs to generate the timing diagram.
 
 For different input combinations generate the timing diagram.
 
-Result: Thus, the given logic functions are implemented using and their operations are verified using Verilog programming. 
+Result: 
+
+Thus, the given logic functions are implemented using and their operations are verified using Verilog programming. 
